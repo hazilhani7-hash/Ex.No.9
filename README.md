@@ -1,5 +1,5 @@
-# NAME : NAVEEN KUMAR T
-# REG NO : 212223220067
+# NAME : MOHAMMED HAZIL H
+# REG NO : 212223020017
 # Ex.No.9 Exploration of Prompting Techniques for Video Generation
 
 # Aim:
